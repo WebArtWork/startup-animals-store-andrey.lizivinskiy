@@ -1,0 +1,15 @@
+{
+	"title": "Page Title",
+	"top_products": [{
+	    "name": "Name",
+	    "thumb": "https://neryxomka.com/wcharge/img/welcome.png"
+	}],
+	"products": [{
+	    "name": "Name",
+	    "thumb": "https://neryxomka.com/wcharge/img/welcome.png"
+	}],
+	"articles": [{
+	    "name": "Name",
+	    "thumb": "https://neryxomka.com/wcharge/img/welcome.png"
+	}]
+}
